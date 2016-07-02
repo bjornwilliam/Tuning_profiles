@@ -7,7 +7,7 @@ YRC_Kp_scaling,50,C,1.0
 YRC_Ki_start,50,D,1200.0
 YRC_Ki_end,50,E,1200.0
 YRC_Ki_scaling,50,F,1.0
-YRC_Sat_gain,50,10,10
+YRC_Sat_gain,50,10,17
 YRC_Kd_start,50,11,0.0
 YRC_Kd_end,50,12,0.0
 YRC_Kd_scaling,50,13,1.0
