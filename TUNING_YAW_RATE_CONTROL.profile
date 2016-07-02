@@ -14,6 +14,6 @@ YRC_Kd_scaling,50,13,1.0
 YRC_lookup_kmh_end,50,14,50.0
 YRC_reference_weight,50,15,1.0
 YRC_measurement_weight,50,16,1.0
-YRC_enable_r_ref_limit,50,17,1.0
-YRC_mu_scaling_r_ref_limit,50,18,2.0
+YRC_enable_r_ref_limit,50,17,0.0
+YRC_mu_scaling_r_ref_limit,50,18,1.0
 YRC_r_ref_tuning_param,50,19,1.42
