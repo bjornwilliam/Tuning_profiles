@@ -6,7 +6,7 @@ TC_Kp_scaling,50,1E,1
 TC_Ki_start,50,1F,30
 TC_Ki_end,50,20,40
 TC_Ki_scaling,50,21,1
-TC_Kp_braking,50,22,15
-TC_Ki_braking,50,23,50
+TC_Kp_braking,50,22,12
+TC_Ki_braking,50,23,30
 TC_lookup_kmh_end,50,24,50
 TC_anti_wind_up_gain,50,25,5
