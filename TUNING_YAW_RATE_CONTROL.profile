@@ -7,13 +7,13 @@ YRC_Kp_scaling,50,C,1.0
 YRC_Ki_start,50,D,1000
 YRC_Ki_end,50,E,1000
 YRC_Ki_scaling,50,F,1.0
-YRC_Sat_gain,50,10,10
+YRC_Sat_gain,50,10,2
 YRC_Kd_start,50,11,0.0
 YRC_Kd_end,50,12,0.0
 YRC_Kd_scaling,50,13,1.0
 YRC_lookup_kmh_end,50,14,50.0
 YRC_reference_weight,50,15,1.0
 YRC_measurement_weight,50,16,1.0
-YRC_enable_r_ref_limit,50,17,0.0
+YRC_enable_r_ref_limit,50,17,1
 YRC_mu_scaling_r_ref_limit,50,18,1.0
-YRC_r_ref_tuning_param,50,19,1.42
+YRC_r_ref_tuning_param,50,19,1.3
