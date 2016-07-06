@@ -16,4 +16,4 @@ YRC_reference_weight,50,15,1.0
 YRC_measurement_weight,50,16,1.0
 YRC_enable_r_ref_limit,50,17,1
 YRC_mu_scaling_r_ref_limit,50,18,1.0
-YRC_r_ref_tuning_param,50,19,1.2
+YRC_r_ref_tuning_param,50,19,1.32
