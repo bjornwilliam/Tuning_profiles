@@ -1,7 +1,7 @@
 Max motor torque,50,95,23
 Max brake torque,50,96,20
 Max RPM,50,97,19600
-Friction cofficient,50,6,2.6
+Friction cofficient,50,6,2.3
 TC_ENABLE,50,26,1
 YRC_ENABLE,50,1A,0
 PLC_ENABLED,50,2C,1
