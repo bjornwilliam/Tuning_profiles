@@ -1,8 +1,8 @@
 YRC_Ku,50,9,0.0
 YRC_Max_yaw_moment,50,55,1200
 YRC_Max_neg_tv_torque,50,56,10.0
-YRC_Kp_start,50,A,200
-YRC_Kp_end,50,B,200
+YRC_Kp_start,50,A,50
+YRC_Kp_end,50,B,50
 YRC_Kp_scaling,50,C,1.0
 YRC_Ki_start,50,D,1000
 YRC_Ki_end,50,E,1000
