@@ -4,8 +4,8 @@ YRC_Max_neg_tv_torque,50,56,10.0
 YRC_Kp_start,50,A,200
 YRC_Kp_end,50,B,200
 YRC_Kp_scaling,50,C,1.0
-YRC_Ki_start,50,D,1500
-YRC_Ki_end,50,E,1500
+YRC_Ki_start,50,D,1200
+YRC_Ki_end,50,E,1200
 YRC_Ki_scaling,50,F,1.0
 YRC_Sat_gain,50,10,2
 YRC_Kd_start,50,11,0.0
@@ -16,4 +16,4 @@ YRC_reference_weight,50,15,1.0
 YRC_measurement_weight,50,16,1.0
 YRC_enable_r_ref_limit,50,17,1
 YRC_mu_scaling_r_ref_limit,50,18,1.0
-YRC_r_ref_tuning_param,50,19,1.23
+YRC_r_ref_tuning_param,50,19,1.27
