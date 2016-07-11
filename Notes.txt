@@ -1,0 +1,1 @@
+Powerlimit control ser for dårlig ut. Burde sette power limit enda lavere for autocorss, eller få justert gains. Øke Ki . 
