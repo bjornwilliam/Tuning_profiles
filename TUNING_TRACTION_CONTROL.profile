@@ -1,4 +1,4 @@
-TC_slip_ratio_reference,50,1B,0.16
+TC_slip_ratio_reference,50,1B,0.17
 TC_full_gain_limit_kmh,50,EE,10.0
 TC_Kp_start,50,1C,4
 TC_Kp_end,50,1D,6
