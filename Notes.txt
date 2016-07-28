@@ -1,3 +1,8 @@
 Powerlimit control ser for dårlig ut. Burde sette power limit enda lavere for autocorss, eller få justert gains. Øke Ki .
 
 Steering wheel speed kan gå opp til 1000. Dominerer r_ref_der. I dette tilfellet har man ca 230 ish i r_ref_der. riktig Kd .. kanskje starte rundt 1  
+
+Virker som at 100 Hz er alt for lite for TC (når man mister normalkraft i sving). Burde heller brukt inverter som fartsregulator (delft gjør dette). 
+
+
+1.8 i rebound koeffisient. 
