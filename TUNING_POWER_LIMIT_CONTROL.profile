@@ -1,4 +1,4 @@
-PLC_Positive_power_limit,50,27,79500
+PLC_Positive_power_limit,50,27,79000
 PLC_Negative_power_limit,50,28,80000
 PLC_Kp,50,29,0.000008
 PLC_Ki,50,2A,0.00020
